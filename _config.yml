@@ -1,11 +1,11 @@
 # Site settings
-title: Freelancer
-email: your-email@domain.com
-url: https://github.com/jeromelachaud/freelancer-theme
-description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
-keywords: "your keywords, separated by commas"
-skills: "Web Developer - Graphic Artist - User Experience Designer"
-meta_author: LastName FirstName
+title: Uprising Immobilier
+email: ehnouninoun@gmail.com
+url: https://nouninoun.github.io/immoup/
+description: "Le Site de l'encan immobilier d'Uprising. Tout ce que vous devez savoir sur les lots offerts durant les mises à l'enchère !"
+keywords: "Uprising, GTARP, FiveM, Immobilier"
+skills: "Immobilier dans l'âme"
+meta_author: Alice Wolf Smith
 
 # Google webmaster tools
 google_verify:
@@ -32,28 +32,28 @@ color:
 
 # Footer settings
 footer:
-  copyright: Dr. Henry Jekyll
-  location: Location
+  copyright: Immobilier Uprising
+  location: Uprising
   social: Around the Web
   credits: Credits
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: twitter
-    url: http://twitter.com/jekyllrb
+    url: https://live.uprisingroleplay.com/
   - title: facebook
-    url:
+    url:https://live.uprisingroleplay.com/
   - title: stack-overflow
-    url: http://stackoverflow.com/questions/tagged/jekyll
+    url: https://live.uprisingroleplay.com/
   - title: bitbucket
-    url: http://bitbucket.org/jekyll
+    url: https://live.uprisingroleplay.com/
   - title: github
-    url: http://github.com/jekyll
+    url: https://live.uprisingroleplay.com/
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: 3481 Melrose Place
-  - line: Beverly Hills, CA 90210
+  - line: PillBox Hill
+  - line: Uprising
 
 # Credits content
 credits: 'Freelancer is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
