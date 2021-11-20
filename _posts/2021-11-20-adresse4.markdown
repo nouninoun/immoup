@@ -3,7 +3,7 @@ title:  "Adresse 4"
 subtitle: "Type de bien"
 author: "Alice Wolf Smith"
 avatar: "img/authors/wferr.png"
-image: "img/a.jpg"
+image: "img/d.jpg"
 date:   2021-11-20 18:00:00
 ---
 
@@ -12,8 +12,13 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin vestibulum non mi
 
 ### Références techniques
 Prix : 
+
 Piscine : oui/non
+
 Spa : oui/non
+
 Jardin : oui/non
+
 Garage : oui/non
+
 etc...

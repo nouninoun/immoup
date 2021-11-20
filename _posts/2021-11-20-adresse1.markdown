@@ -12,8 +12,13 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin vestibulum non mi
 
 ### Références techniques
 Prix : 
+
 Piscine : oui/non
+
 Spa : oui/non
+
 Jardin : oui/non
+
 Garage : oui/non
+
 etc...
