@@ -1,7 +1,7 @@
 ---
 layout: home
 title: Home
-landing-title: 'Bienvenue sur le site de l\'encan d\'Uprising'
+landing-title: 'Bienvenue sur le site de l'encan d'Uprising'
 description: null
 image: null
 author: null
