@@ -2,7 +2,7 @@
 title:  "Adresse 4"
 subtitle: "Type de bien"
 author: "Alice Wolf Smith"
-avatar: "img/authors/wferr.png"
+avatar: "img/authors/m1v2.png"
 image: "img/d.jpg"
 date:   2021-11-20 18:00:00
 ---
