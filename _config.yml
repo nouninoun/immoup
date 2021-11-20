@@ -1,8 +1,8 @@
 # site settings
 title: Immobilier Uprising
-subtitle: Catalogue de l\'encan
+subtitle: Catalogue de l'encan
 email: ehnouninoun@gmail.com
-description: Le site de l\'immobilier d'uprising pour les présentations d\'encan
+description: Le site de l'immobilier d'uprising pour les présentations d'encan
 baseurl: "/immoup" # the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site
 author:
