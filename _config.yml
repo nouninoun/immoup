@@ -1,7 +1,7 @@
 # Site settings
-title: Modern Blog
-description: Modern-Blog A Elegant template for Jekyll
-keywords: Modern, Blogging, Fun
-author: Wferr
-baseurl: "" # the subpath of your site, e.g. /blog/
-url: "" # the base hostname & protocol for your site
+title: Immobilier Uprising
+description: Le site de référence pour la vente aux enchères de l'Immobilier d'Uprising
+keywords: Immobilier, Uprising, FiveM, GTA RP
+author: Alice Wolf Smith
+baseurl: "/immoup/" # the subpath of your site, e.g. /blog/
+url: "https://nouninoun.github.io/immoup/" # the base hostname & protocol for your site
