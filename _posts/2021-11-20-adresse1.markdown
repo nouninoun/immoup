@@ -3,7 +3,7 @@ title:  "3 Forum Drive, Uprising"
 subtitle: "Résidentiel"
 author: "Immobilier Uprising"
 avatar: "img/authors/m1v2.png"
-image: "img/1/2.png"
+image: "img/1/1.png"
 date:   2021-11-21 18:10:00
 ---
 
