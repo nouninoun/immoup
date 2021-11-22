@@ -1,5 +1,5 @@
 ---
-title:  "XX Jamestown Street "
+title:  "218 Jamestown Street "
 subtitle: "Entrepot"
 author: "Immobilier Uprising"
 avatar: "img/authors/m1v2.png"
