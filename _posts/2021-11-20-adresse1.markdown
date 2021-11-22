@@ -23,7 +23,7 @@ Petite maison de ville complètement aménagée sur un terrain intime. Végétat
 
 <img src="img/1/7.png" alt="alt text" title="image Title" width="650"/>
 
-<img src="img/1/3.png" alt="alt text" title="image Title" width="650"/>
+<img src="img/1/map.png" alt="alt text" title="image Title" width="650"/>
 
 
 ### Références techniques

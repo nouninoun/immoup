@@ -3,7 +3,7 @@ title:  "XX Rockford Drive South"
 subtitle: "Résidentiel"
 author: "Immobilier Uprising"
 avatar: "img/authors/m1v2.png"
-image: "img/2/a.png"
+image: "img/2/3.png"
 date:   2021-12-11 19:11:00
 ---
 
@@ -19,7 +19,7 @@ date:   2021-12-11 19:11:00
 
 <img src="img/2/3.png" alt="alt text" title="image Title" width="650"/>
 
-<img src="img/2/4.png" alt="alt text" title="image Title" width="650"/>
+<img src="img/2/map.png" alt="alt text" title="image Title" width="650"/>
 
 
 ### Références techniques
