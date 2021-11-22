@@ -1,31 +1,40 @@
 ---
-title:  "Adresse 5"
-subtitle: "Maison"
+title:  "2115 Mad Wayne Thunder Drive"
+subtitle: "Résidentiel"
 author: "Immobilier Uprising"
 avatar: "img/authors/m1v2.png"
-image: "img/e.jpg"
+image: "img/5/a.png"
 date:   2021-12-11 19:08:00
 ---
 
 ### Description du bien
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin vestibulum non mi non pulvinar. Donec tempus risus vel ex fringilla tempor. Vivamus pharetra non mauris quis fermentum. Vestibulum sed maximus elit, sit amet suscipit orci. Morbi at enim at libero dignissim egestas vel ac nisi. Etiam at lectus a arcu sodales consequat. Aliquam consequat ligula sed purus tincidunt, a ultrices nibh dapibus. Phasellus convallis ipsum nec semper ultricies. In facilisis lacus velit, sit amet lacinia velit blandit id. Nullam ut magna erat. Aliquam sit amet dapibus odio, aliquet tempus tortor. Donec in nisi massa.
+À venir
 
-<img src="img/b.jpg" alt="alt text" title="image Title" width="650"/>
 
-<img src="img/c.jpg" alt="alt text" title="image Title" width="650"/>
+<img src="img/5/a.png" alt="alt text" title="image Title" width="650"/>
 
-<img src="img/d.jpg" alt="alt text" title="image Title" width="650"/>
+<img src="img/5/1.png" alt="alt text" title="image Title" width="650"/>
+
+<img src="img/5/2.png" alt="alt text" title="image Title" width="650"/>
+
+<img src="img/5/3.png" alt="alt text" title="image Title" width="650"/>
+
+<img src="img/5/4.png" alt="alt text" title="image Title" width="650"/>
+
+<img src="img/5/map.png" alt="alt text" title="image Title" width="650"/>
 
 
 ### Références techniques
-Prix : 
+Prix de départ : 10.000 $
 
-Piscine : oui/non
+Vendu avec réserve : Non
 
-Spa : oui/non
+Secteur : Vinewood Hills
 
-Jardin : oui/non
+Piscine : Non
 
-Garage : oui/non
+Spa : Oui
 
-etc...
+Garage : Oui
+
+Aménagements intérieurs : Types à déterminer

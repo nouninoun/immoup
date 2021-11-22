@@ -1,6 +1,6 @@
 ---
 title:  "2105 Ace Jones Drive"
-subtitle: "Rédientiel"
+subtitle: "Résidentiel"
 author: "Immobilier Uprising"
 avatar: "img/authors/m1v2.png"
 image: "img/4/a.png"
