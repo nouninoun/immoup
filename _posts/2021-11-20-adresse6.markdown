@@ -1,31 +1,38 @@
 ---
-title:  "Adresse 6"
-subtitle: "Maison"
+title:  "1782 Redwood"
+subtitle: "Résidentiel"
 author: "Immobilier Uprising"
 avatar: "img/authors/m1v2.png"
-image: "img/f.jpg"
+image: "img/6/a.png"
 date:   2021-12-11 19:07:00
 ---
 
 ### Description du bien
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin vestibulum non mi non pulvinar. Donec tempus risus vel ex fringilla tempor. Vivamus pharetra non mauris quis fermentum. Vestibulum sed maximus elit, sit amet suscipit orci. Morbi at enim at libero dignissim egestas vel ac nisi. Etiam at lectus a arcu sodales consequat. Aliquam consequat ligula sed purus tincidunt, a ultrices nibh dapibus. Phasellus convallis ipsum nec semper ultricies. In facilisis lacus velit, sit amet lacinia velit blandit id. Nullam ut magna erat. Aliquam sit amet dapibus odio, aliquet tempus tortor. Donec in nisi massa.
+Maison champêtre comme les vieilles écoles de rang. Pour les amants de la nature et du plaisir de la motocross.
 
-<img src="img/b.jpg" alt="alt text" title="image Title" width="650"/>
 
-<img src="img/c.jpg" alt="alt text" title="image Title" width="650"/>
+<img src="img/6/a.png" alt="alt text" title="image Title" width="650"/>
 
-<img src="img/d.jpg" alt="alt text" title="image Title" width="650"/>
+<img src="img/6/2.png" alt="alt text" title="image Title" width="650"/>
+
+<img src="img/6/3.png" alt="alt text" title="image Title" width="650"/>
+
+<img src="img/6/4.png" alt="alt text" title="image Title" width="650"/>
+
+<img src="img/6/map.png" alt="alt text" title="image Title" width="650"/>
 
 
 ### Références techniques
-Prix : 
+Prix de départ : 40.000 $
 
-Piscine : oui/non
+Vendu avec réserve : Non
 
-Spa : oui/non
+Secteur : Sandy Shore
 
-Jardin : oui/non
+Piscine : Non
 
-Garage : oui/non
+Spa : Non
 
-etc...
+Garage : Oui
+
+Aménagements intérieurs : Ranch
