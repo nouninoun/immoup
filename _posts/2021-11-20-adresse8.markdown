@@ -2,7 +2,7 @@
 title:  "2503 Kimble Hill Drive"
 subtitle: "Résidentiel"
 author: "Immobilier Uprising"
-avatar: "img/authors/m1v2.PNG"
+avatar: "img/authors/m1v2.png"
 image: "img/8/a.PNG"
 date:   2021-12-11 19:05:00
 ---

@@ -2,7 +2,7 @@
 title:  "1012 Rockford Drive North"
 subtitle: "Résidentiel"
 author: "Immobilier Uprising"
-avatar: "img/authors/m1v2.PNG"
+avatar: "img/authors/m1v2.png"
 image: "img/9/a.PNG"
 date:   2021-12-11 19:04:00
 ---

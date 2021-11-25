@@ -2,7 +2,7 @@
 title:  "1782 Redwood"
 subtitle: "Résidentiel"
 author: "Immobilier Uprising"
-avatar: "img/authors/m1v2.PNG"
+avatar: "img/authors/m1v2.png"
 image: "img/6/a.PNG"
 date:   2021-12-11 19:07:00
 ---

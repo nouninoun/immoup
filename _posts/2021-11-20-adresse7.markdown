@@ -2,7 +2,7 @@
 title:  "2387 Popular Street"
 subtitle: "Entrepot"
 author: "Immobilier Uprising"
-avatar: "img/authors/m1v2.PNG"
+avatar: "img/authors/m1v2.png"
 image: "img/7/a.PNG"
 date:   2021-12-11 19:06:00
 ---
