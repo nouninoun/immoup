@@ -2,8 +2,8 @@
 title:  "1782 Redwood"
 subtitle: "Résidentiel"
 author: "Immobilier Uprising"
-avatar: "img/authors/m1v2.png"
-image: "img/6/a.png"
+avatar: "img/authors/m1v2.PNG"
+image: "img/6/a.PNG"
 date:   2021-12-11 19:07:00
 ---
 
@@ -11,15 +11,15 @@ date:   2021-12-11 19:07:00
 Maison champêtre comme les vieilles écoles de rang. Pour les amants de la nature et du plaisir de la motocross.
 
 
-<img src="img/6/a.png" alt="alt text" title="image Title" width="650"/>
+<img src="img/6/a.PNG" alt="alt text" title="image Title" width="650"/>
 
-<img src="img/6/2.png" alt="alt text" title="image Title" width="650"/>
+<img src="img/6/2.PNG" alt="alt text" title="image Title" width="650"/>
 
-<img src="img/6/3.png" alt="alt text" title="image Title" width="650"/>
+<img src="img/6/3.PNG" alt="alt text" title="image Title" width="650"/>
 
-<img src="img/6/4.png" alt="alt text" title="image Title" width="650"/>
+<img src="img/6/4.PNG" alt="alt text" title="image Title" width="650"/>
 
-<img src="img/6/map.png" alt="alt text" title="image Title" width="650"/>
+<img src="img/6/map.PNG" alt="alt text" title="image Title" width="650"/>
 
 
 ### Références techniques

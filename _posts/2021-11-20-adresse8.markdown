@@ -2,8 +2,8 @@
 title:  "2503 Kimble Hill Drive"
 subtitle: "Résidentiel"
 author: "Immobilier Uprising"
-avatar: "img/authors/m1v2.png"
-image: "img/8/a.png"
+avatar: "img/authors/m1v2.PNG"
+image: "img/8/a.PNG"
 date:   2021-12-11 19:05:00
 ---
 
@@ -11,11 +11,11 @@ date:   2021-12-11 19:05:00
 Magnifique maison moderne. Splendide vue sur la ville d’Uprising.
 
 
-<img src="img/8/a.png" alt="alt text" title="image Title" width="650"/>
+<img src="img/8/a.PNG" alt="alt text" title="image Title" width="650"/>
 
-<img src="img/8/2.png" alt="alt text" title="image Title" width="650"/>
+<img src="img/8/2.PNG" alt="alt text" title="image Title" width="650"/>
 
-<img src="img/8/map.png" alt="alt text" title="image Title" width="650"/>
+<img src="img/8/map.PNG" alt="alt text" title="image Title" width="650"/>
 
 
 ### Références techniques

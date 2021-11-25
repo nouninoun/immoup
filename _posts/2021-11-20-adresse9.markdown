@@ -2,8 +2,8 @@
 title:  "1012 Rockford Drive North"
 subtitle: "Résidentiel"
 author: "Immobilier Uprising"
-avatar: "img/authors/m1v2.png"
-image: "img/9/a.png"
+avatar: "img/authors/m1v2.PNG"
+image: "img/9/a.PNG"
 date:   2021-12-11 19:04:00
 ---
 
@@ -11,13 +11,13 @@ date:   2021-12-11 19:04:00
 Magnifique maison sur deux étages sous-sol aménagés. Magnifique cour. Grande piscine.
 
 
-<img src="img/9/a.png" alt="alt text" title="image Title" width="650"/>
+<img src="img/9/a.PNG" alt="alt text" title="image Title" width="650"/>
 
-<img src="img/9/2.png" alt="alt text" title="image Title" width="650"/>
+<img src="img/9/2.PNG" alt="alt text" title="image Title" width="650"/>
 
-<img src="img/9/3.png" alt="alt text" title="image Title" width="650"/>
+<img src="img/9/3.PNG" alt="alt text" title="image Title" width="650"/>
 
-<img src="img/9/map.png" alt="alt text" title="image Title" width="650"/>
+<img src="img/9/map.PNG" alt="alt text" title="image Title" width="650"/>
 
 
 ### Références techniques

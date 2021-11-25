@@ -2,8 +2,8 @@
 title:  "2387 Popular Street"
 subtitle: "Entrepot"
 author: "Immobilier Uprising"
-avatar: "img/authors/m1v2.png"
-image: "img/7/a.png"
+avatar: "img/authors/m1v2.PNG"
+image: "img/7/a.PNG"
 date:   2021-12-11 19:06:00
 ---
 
@@ -11,9 +11,9 @@ date:   2021-12-11 19:06:00
 Petit entrepôt très bien placé. Grand stationnement dans une zone industrielle 
 
 
-<img src="img/7/a.png" alt="alt text" title="image Title" width="650"/>
+<img src="img/7/a.PNG" alt="alt text" title="image Title" width="650"/>
 
-<img src="img/7/map.png" alt="alt text" title="image Title" width="650"/>
+<img src="img/7/map.PNG" alt="alt text" title="image Title" width="650"/>
 
 
 ### Références techniques
