@@ -1,6 +1,6 @@
 ---
-title:  "1782 Redwood"
-subtitle: "Résidentiel"
+title:  "218 Jamestown Street"
+subtitle: "Entrepot"
 author: "Immobilier Uprising"
 avatar: "img/authors/m1v2.png"
 image: "img/6/a.PNG"
@@ -8,7 +8,7 @@ date:   2021-12-11 19:07:00
 ---
 
 ### Description du bien
-Maison champêtre comme les vieilles écoles de rang. Pour les amants de la nature et du plaisir de la motocross.
+Petit entrepôt propre. Bien situé en plein centre ville d'Uprsing
 
 
 <img src="img/6/a.PNG" alt="alt text" title="image Title" width="650"/>
@@ -25,14 +25,14 @@ Maison champêtre comme les vieilles écoles de rang. Pour les amants de la natu
 ### Références techniques
 Prix de départ : 10.000 $
 
-Vendu avec réserve : Non
+Vendu avec réserve : Oui
 
-Secteur : Sandy Shore
+Secteur : South Los Santos
 
 Piscine : Non
 
 Spa : Non
 
-Garage : Oui
+Garage : Non mais possible
 
-Aménagements intérieurs : Ranch
+Aménagements intérieurs : GarageShell3 , GarageShell2 , GarageShell1, Warehouse1, Warehouse3
