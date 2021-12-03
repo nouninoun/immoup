@@ -1,6 +1,7 @@
 ---
 title:  "2115 Mad Wayne Thunder Drive"
 subtitle: "Résidentiel"
+lot : "Lot 5"
 author: "Immobilier Uprising"
 avatar: "img/authors/m1v2.png"
 image: "img/5/a.png"

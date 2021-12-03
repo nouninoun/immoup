@@ -1,6 +1,7 @@
 ---
 title:  "218 Jamestown Street "
 subtitle: "Entrepot"
+lot : "Lot 3"
 author: "Immobilier Uprising"
 avatar: "img/authors/m1v2.png"
 image: "img/3/2.png"

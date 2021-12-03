@@ -1,6 +1,7 @@
 ---
 title:  "103 Melanoma Street"
 subtitle: "Garage"
+lot : "Lot 12"
 author: "Immobilier Uprising"
 avatar: "img/authors/m1v2.png"
 image: "img/12/a.png"

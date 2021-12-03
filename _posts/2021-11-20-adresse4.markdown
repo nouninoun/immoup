@@ -1,6 +1,7 @@
 ---
 title:  "2105 Ace Jones Drive"
 subtitle: "Résidentiel"
+lot : "Lot 4"
 author: "Immobilier Uprising"
 avatar: "img/authors/m1v2.png"
 image: "img/4/a.png"
