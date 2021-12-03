@@ -102,13 +102,13 @@
 
 .card__lot {
 	font-size: .95em;
-	line-height: 1;
+	line-height: 3;
 	margin: 5px 0 0;
 	color: #777778;
 }
 
 .card__container--closed .card__lot {
-	color: #363636;
+	color: #f7f7f7;
 }
 
 .card__copy {
