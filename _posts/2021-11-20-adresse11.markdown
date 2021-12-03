@@ -1,31 +1,42 @@
 ---
-title:  "Adresse 11"
-subtitle: "Garage"
+title:  "2615 Procopio Drive"
+subtitle: "Résidentiel"
 author: "Immobilier Uprising"
 avatar: "img/authors/m1v2.png"
-image: "img/b.jpg"
+image: "img/11/a.jpg"
 date:   2021-12-11 19:02:00
 ---
 
 ### Description du bien
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin vestibulum non mi non pulvinar. Donec tempus risus vel ex fringilla tempor. Vivamus pharetra non mauris quis fermentum. Vestibulum sed maximus elit, sit amet suscipit orci. Morbi at enim at libero dignissim egestas vel ac nisi. Etiam at lectus a arcu sodales consequat. Aliquam consequat ligula sed purus tincidunt, a ultrices nibh dapibus. Phasellus convallis ipsum nec semper ultricies. In facilisis lacus velit, sit amet lacinia velit blandit id. Nullam ut magna erat. Aliquam sit amet dapibus odio, aliquet tempus tortor. Donec in nisi massa.
+Charmante maison bien situé a Paleto Bay. Terrain bien clôturé et grande entrée pavée. 
 
-<img src="img/b.jpg" alt="alt text" title="image Title" width="650"/>
 
-<img src="img/c.jpg" alt="alt text" title="image Title" width="650"/>
+<img src="img/11/a.png" alt="alt text" title="image Title" width="650"/>
 
-<img src="img/d.jpg" alt="alt text" title="image Title" width="650"/>
+<img src="img/11/1.png" alt="alt text" title="image Title" width="650"/>
+
+<img src="img/11/2.png" alt="alt text" title="image Title" width="650"/>
+
+<img src="img/11/3.png" alt="alt text" title="image Title" width="650"/>
+
+<img src="img/11/4.png" alt="alt text" title="image Title" width="650"/>
+
+<img src="img/11/5.png" alt="alt text" title="image Title" width="650"/>
+
+<img src="img/11/map.png" alt="alt text" title="image Title" width="650"/>
 
 
 ### Références techniques
-Prix : 
+Prix de départ : 10.000 $
 
-Piscine : oui/non
+Vendu avec réserve : Oui
 
-Spa : oui/non
+Secteur : Paleto Bay
 
-Jardin : oui/non
+Piscine : Non
 
-Garage : oui/non
+Spa : Non
 
-etc...
+Garage : Non
+
+Aménagements intérieurs : Trevor, Lester, Trailer
