@@ -3,7 +3,7 @@ title:  "2615 Procopio Drive"
 subtitle: "Résidentiel"
 author: "Immobilier Uprising"
 avatar: "img/authors/m1v2.png"
-image: "img/11/a.jpg"
+image: "img/11/a.png"
 date:   2021-12-11 19:02:00
 ---
 

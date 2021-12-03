@@ -3,7 +3,7 @@ title:  "103 Melanoma Street"
 subtitle: "Garage"
 author: "Immobilier Uprising"
 avatar: "img/authors/m1v2.png"
-image: "img/12/a.jpg"
+image: "img/12/a.png"
 date:   2021-12-11 19:01:00
 ---
 
