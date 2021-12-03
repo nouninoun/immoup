@@ -101,8 +101,8 @@
 }
 
 .card__lot {
-	font-size: .95em;
-	line-height: 3;
+	font-size: 3em;
+	line-height: 1;
 	margin: 5px 0 0;
 	color: #777778;
 }
