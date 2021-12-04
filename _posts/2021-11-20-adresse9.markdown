@@ -12,11 +12,19 @@ date:   2021-12-11 19:04:00
 Magnifique maison sur deux étages sous-sol aménagés. Magnifique cour. Grande piscine.
 
 
-<img src="img/9/a.PNG" alt="alt text" title="image Title" width="650"/>
+<img src="img/9/a.PNG" alt="alt text" title="image Title" width="650"/>c
+
+<img src="img/9/1.png" alt="alt text" title="image Title" width="650"/>
 
 <img src="img/9/2.PNG" alt="alt text" title="image Title" width="650"/>
 
 <img src="img/9/3.PNG" alt="alt text" title="image Title" width="650"/>
+
+<img src="img/9/4.png" alt="alt text" title="image Title" width="650"/>
+
+<img src="img/9/5.png" alt="alt text" title="image Title" width="650"/>
+
+<img src="img/9/6.png" alt="alt text" title="image Title" width="650"/>
 
 <img src="img/9/map.PNG" alt="alt text" title="image Title" width="650"/>
 

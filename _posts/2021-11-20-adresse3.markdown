@@ -22,6 +22,14 @@ Entrepôt spacieux avec espace de stationnement derrière et garage disponible. 
 
 <img src="img/3/4.png" alt="alt text" title="image Title" width="650"/>
 
+<img src="img/3/5.png" alt="alt text" title="image Title" width="650"/>
+
+<img src="img/3/6.png" alt="alt text" title="image Title" width="650"/>
+
+<img src="img/3/7.png" alt="alt text" title="image Title" width="650"/>
+
+<img src="img/3/8.png" alt="alt text" title="image Title" width="650"/>
+
 <img src="img/3/map.png" alt="alt text" title="image Title" width="650"/>
 
 

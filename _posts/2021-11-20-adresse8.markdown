@@ -14,7 +14,15 @@ Magnifique maison moderne. Splendide vue sur la ville d’Uprising.
 
 <img src="img/8/a.PNG" alt="alt text" title="image Title" width="650"/>
 
+<img src="img/8/1.png" alt="alt text" title="image Title" width="650"/>
+
 <img src="img/8/2.PNG" alt="alt text" title="image Title" width="650"/>
+
+<img src="img/8/3.png" alt="alt text" title="image Title" width="650"/>
+
+<img src="img/8/4.png" alt="alt text" title="image Title" width="650"/>
+
+<img src="img/8/5.png" alt="alt text" title="image Title" width="650"/>
 
 <img src="img/8/map.PNG" alt="alt text" title="image Title" width="650"/>
 
