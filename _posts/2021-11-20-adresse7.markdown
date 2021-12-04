@@ -14,7 +14,13 @@ Petit entrepôt très bien placé. Grand stationnement dans une zone industriell
 
 <img src="img/7/a.PNG" alt="alt text" title="image Title" width="650"/>
 
-<img src="img/7/map.PNG" alt="alt text" title="image Title" width="650"/>
+<img src="img/7/1.png" alt="alt text" title="image Title" width="650"/>
+
+<img src="img/7/2.png" alt="alt text" title="image Title" width="650"/>
+
+<img src="img/7/3.png" alt="alt text" title="image Title" width="650"/>
+
+<img src="img/7/map.png" alt="alt text" title="image Title" width="650"/>
 
 
 ### Références techniques
