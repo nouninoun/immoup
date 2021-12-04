@@ -4,7 +4,7 @@ subtitle: "Résidentiel"
 lot : "Lot 6"
 author: "Immobilier Uprising"
 avatar: "img/authors/m1v2.png"
-image: "img/6/a.png"
+image: "img/6/a.PNG"
 date:   2021-12-11 19:07:00
 ---
 
@@ -12,17 +12,17 @@ date:   2021-12-11 19:07:00
 Belle maison sur la côte ouest de notre bonne ville. Ravissante cour arrière , piscine, spa. Deux entrées sépareées. Magnifique vu sur l'océan et la plage
 
 
-<img src="img/6/a.png" alt="alt text" title="image Title" width="650"/>
+<img src="img/6/a.PNG" alt="alt text" title="image Title" width="650"/>
 
-<img src="img/6/2.png" alt="alt text" title="image Title" width="650"/>
+<img src="img/6/2.PNG" alt="alt text" title="image Title" width="650"/>
 
-<img src="img/6/3.png" alt="alt text" title="image Title" width="650"/>
+<img src="img/6/3.PNG" alt="alt text" title="image Title" width="650"/>
 
-<img src="img/6/4.png" alt="alt text" title="image Title" width="650"/>
+<img src="img/6/4.PNG" alt="alt text" title="image Title" width="650"/>
 
 <img src="img/6/5.png" alt="alt text" title="image Title" width="650"/>
 
-<img src="img/6/map.png" alt="alt text" title="image Title" width="650"/>
+<img src="img/6/map.PNG" alt="alt text" title="image Title" width="650"/>
 
 
 ### Références techniques
