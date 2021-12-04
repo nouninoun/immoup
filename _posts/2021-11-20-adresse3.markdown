@@ -1,11 +1,11 @@
 ---
 title:  "218 Jamestown Street "
 subtitle: "Entrepot"
-lot : "Lot 3"
+lot : "Lot 8"
 author: "Immobilier Uprising"
 avatar: "img/authors/m1v2.png"
 image: "img/3/2.png"
-date:   2021-12-11 19:10:00
+date:   2021-12-11 19:05:00
 ---
 
 ### Description du bien

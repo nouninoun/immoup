@@ -1,11 +1,11 @@
 ---
 title:  "16 Rockford Drive South"
 subtitle: "Résidentiel"
-lot : "Lot 2"
+lot : "Lot 7"
 author: "Immobilier Uprising"
 avatar: "img/authors/m1v2.png"
 image: "img/2/3.png"
-date:   2021-12-11 19:11:00
+date:   2021-12-11 19:06:00
 ---
 
 ### Description du bien
