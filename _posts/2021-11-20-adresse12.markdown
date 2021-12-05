@@ -30,7 +30,7 @@ Petit entrepôt avec porte de garage. Possibilité multiples pour l'ouverture d'
 ### Références techniques
 Prix de départ : 10.000 $
 
-Vendu avec réserve : Oui
+Vendu avec réserve : Non
 
 Secteur : Paleto Bay
 
@@ -40,4 +40,4 @@ Spa : Non
 
 Garage : Non
 
-Aménagements intérieurs : Trevor, Lester, Trailer
+Aménagements intérieurs : Wharehouse3 ou GarageShell1
